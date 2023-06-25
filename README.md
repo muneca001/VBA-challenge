@@ -1,10 +1,10 @@
 # VBA-challenge
 
 Created a script that loops through all the stocks in a workbook to output the following:
-Ticker symbol 
-Yearly and percentage change from the opening/closing price at the beginning and end of that year
-Total Volume for each stock
-The stock with the greatest and least percent change, as well as the greatest total volume
+ticker symbol, 
+yearly and percentage change from the opening/closing price at the beginning and end of that year,
+total volume for each stock, and
+the stocks with the greatest and least percent change, as well as the greatest total volume
 
 The percent change column was formated using VBA to include the percentage symbol.
 In addition, green and red color filling was applied to indicate positive or negative values for the yearly change column
