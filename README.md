@@ -9,17 +9,19 @@ the stocks with the greatest and least percent change, as well as the greatest t
 The percent change column was formated using VBA to include the percentage symbol.
 In addition, green and red color filling was applied to indicate positive or negative values for the yearly change column
 
-Analysis Results for 2018:
+Analysis Results
+
+2018:
   Greatest % Increase - THB at 141.42%
   Greatest % Drecrease - RKS at -90.02%
   Greatest Total Volume - QKN 
 
-Analysis Results for 2019:
+2019:
   Greatest % Increase - RYU at 190.03%
   Greatest % Drecrease - RKS at -91.60%
   Greatest Total Volume - ZQD
   
-Analysis Results for 2020:
+2020:
   Greatest % Increase - YDI at 188.76%
   Greatest % Drecrease - VNG at -89.05%
   Greatest Total Volume - QKN
